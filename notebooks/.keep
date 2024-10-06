@@ -1,0 +1,5 @@
+File Name format:
+- 01_DataPreparation.ipynb
+- 02_DataExploration.ipynb
+- 03_Modeling.ipynb
+- 04_ModelEvaluation.ipynb
