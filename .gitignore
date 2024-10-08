@@ -6,3 +6,5 @@ data/raw/**/*.csv.DS_Store
 */.DS_Store
 .DS_Store
 */.DS_Store
+fraudTest.csv
+fraudTrain.csv
